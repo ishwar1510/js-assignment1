@@ -1,8 +1,8 @@
 /*------Create an Array------*/
 
-//let colors=['red','pink','orange','green','yellow']
+let colors=['red','pink','orange','green','yellow']
 //console.log(colors[0]);
-//console.log(colors[4]);
+console.log(colors[2]);
 
 
 
@@ -27,7 +27,7 @@
 
 
  /*------access all items from Array----*/
- let array = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
- for(let i=0;i<=array.length-1;i++){
-    console.log(array[i]);
- }
+//  let array = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
+//  for(let i=0;i<=array.length-1;i++){
+//     console.log(array[i]);
+//  }
